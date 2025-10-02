@@ -96,6 +96,3 @@ Mengacu pada RPS Minggu 1: **Total bobot 5% (Quiz 3%, Ringkasan 2%)**
 | Evidence Git & laporan   | -     | Struktur repo rapi, ada screenshot, commit sesuai format (syarat sah)    |
 
 ---
-
-## Catatan
-Dengan format ini, konten minggu 1 sinkron dengan RPS: ada sejarah kripto, CIA, setup GitHub, quiz singkat, dan ringkasan → total nilai 5%.
