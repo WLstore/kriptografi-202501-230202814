@@ -1,95 +1,48 @@
-# Laporan Praktikum Kriptografi
-Minggu ke-: X  
-Topik: [judul praktikum]  
-Nama: [Nama Mahasiswa]  
-NIM: [NIM Mahasiswa]  
-Kelas: [Kelas]  
+Minggu ke-: 1
+Topik: Intro CIA
+Nama: Lukman Wahyu Permadi
+NIM: 230202814
+Kelas: 5IKRB
+# Laporan Minggu 1
+
+Ringkasan Sejarah Kriptografi
+Kriptografi telah digunakan sejak zaman kuno untuk menjaga kerahasiaan pesan.  
+Pada **era klasik**, metode seperti **Caesar Cipher** dan **Vigenère Cipher** digunakan untuk menyamarkan pesan dengan cara pergeseran huruf atau penggunaan kunci berulang.  
+
+Memasuki abad ke-20, kriptografi berkembang menjadi **modern** berkat kemajuan komputer. Algoritma **RSA** memperkenalkan konsep kunci publik, sedangkan **AES** menjadi standar enkripsi simetris yang digunakan secara luas hingga sekarang.  
+
+Pada era **kontemporer**, kriptografi diaplikasikan dalam **blockchain** dan **cryptocurrency**. Teknologi ini memastikan keamanan transaksi, kepercayaan tanpa pihak ketiga, serta mendukung sistem keuangan digital terdesentralisasi.
 
 ---
 
-## 1. Tujuan
-(Tuliskan tujuan pembelajaran praktikum sesuai modul.)
+Prinsip CIA
+1. **Confidentiality (Kerahasiaan)**  
+   Menjaga agar data hanya bisa diakses oleh pihak berwenang.  
+   *Contoh:* WhatsApp menggunakan enkripsi end-to-end agar pesan hanya dapat dibaca pengirim dan penerima.
+
+2. **Integrity (Keutuhan Data)**  
+   Menjamin data tidak diubah tanpa izin.  
+   *Contoh:* Tanda tangan digital pada dokumen elektronik memastikan isi dokumen asli dan tidak dimodifikasi.
+
+3. **Availability (Ketersediaan)**  
+   Menjamin layanan selalu bisa diakses oleh pengguna yang sah.  
+   *Contoh:* Layanan e-banking menggunakan sistem proteksi terhadap serangan DDoS agar tetap bisa digunakan.
 
 ---
 
-## 2. Dasar Teori
-(Ringkas teori relevan (cukup 2–3 paragraf).  
-Contoh: definisi cipher klasik, konsep modular aritmetika, dll.  )
+Dokumentasi
+Bukti setup repository GitHub:  
+![Setup GitHub](screenshots/sekrinsut.png)
 
 ---
 
-## 3. Alat dan Bahan
-(- Python 3.x  
-- Visual Studio Code / editor lain  
-- Git dan akun GitHub  
-- Library tambahan (misalnya pycryptodome, jika diperlukan)  )
+Quiz Singkat
+1. **Siapa tokoh yang dianggap sebagai bapak kriptografi modern?**  
+   Claude Shannon.
 
----
+2. **Sebutkan algoritma kunci publik yang populer digunakan saat ini.**  
+   RSA dan Elliptic Curve Cryptography (ECC).
 
-## 4. Langkah Percobaan
-(Tuliskan langkah yang dilakukan sesuai instruksi.  
-Contoh format:
-1. Membuat file `caesar_cipher.py` di folder `praktikum/week2-cryptosystem/src/`.
-2. Menyalin kode program dari panduan praktikum.
-3. Menjalankan program dengan perintah `python caesar_cipher.py`.)
-
----
-
-## 5. Source Code
-(Salin kode program utama yang dibuat atau dimodifikasi.  
-Gunakan blok kode:
-
-```python
-# contoh potongan kode
-def encrypt(text, key):
-    return ...
-```
-)
-
----
-
-## 6. Hasil dan Pembahasan
-(- Lampirkan screenshot hasil eksekusi program (taruh di folder `screenshots/`).  
-- Berikan tabel atau ringkasan hasil uji jika diperlukan.  
-- Jelaskan apakah hasil sesuai ekspektasi.  
-- Bahas error (jika ada) dan solusinya. 
-
-Hasil eksekusi program Caesar Cipher:
-
-![Hasil Eksekusi](screenshots/output.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
-)
-
----
-
-## 7. Jawaban Pertanyaan
-(Jawab pertanyaan diskusi yang diberikan pada modul.  
-- Pertanyaan 1: …  
-- Pertanyaan 2: …  
-)
----
-
-## 8. Kesimpulan
-(Tuliskan kesimpulan singkat (2–3 kalimat) berdasarkan percobaan.  )
-
----
-
-## 9. Daftar Pustaka
-(Cantumkan referensi yang digunakan.  
-Contoh:  
-- Katz, J., & Lindell, Y. *Introduction to Modern Cryptography*.  
-- Stallings, W. *Cryptography and Network Security*.  )
-
----
-
-## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
-```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
-
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
-```
+3. **Apa perbedaan utama antara kriptografi klasik dan kriptografi modern?**  
+   - Kriptografi klasik menggunakan teknik substitusi dan transposisi sederhana, relatif mudah dipecahkan dengan komputer modern.  
+   - Kriptografi modern menggunakan algoritma matematis kompleks dan konsep kunci publik/privat, jauh lebih aman di era digital.
