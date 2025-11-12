@@ -86,7 +86,7 @@ Unicity Distance Caesar Cipher (≈0.3) berarti ciphertext yang sangat pendek su
 Waktu brute force untuk Caesar Cipher sangat kecil (hampir instan), sedangkan AES-128 butuh waktu astronomis bahkan dengan 1 juta percobaan per detik.
 Hasil eksekusi program Caesar Cipher:
 
-![Hasil Eksekusi](screenshots/output.png)
+![Hasil Eksekusi](screenshots/hasil.png)
 ![Hasil Input](screenshots/input.png)
 ![Hasil Output](screenshots/output.png)
 )
