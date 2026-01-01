@@ -20,7 +20,7 @@ Pada akhir sesi ini mahasiswa menghasilkan:
 ## Persiapan Lingkungan
 1. Buat folder berikut:  
    ```
-   praktikum/week9-digital-signature/
+   praktikum/C/
    ├─ src/
    ├─ screenshots/
    └─ laporan.md
