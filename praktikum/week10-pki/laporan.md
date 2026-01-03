@@ -101,8 +101,7 @@ print("Sertifikat digital (cert.pem) dan Private Key (key.pem) berhasil dibuat."
 Hasil eksekusi program Caesar Cipher:
 
 ![Hasil Eksekusi](screenshots/hasil.png)
-![Hasil Input](screenshots/input.png)
-![Hasil Output](screenshots/output.png)
+
 )
 
 ---
