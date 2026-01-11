@@ -104,12 +104,9 @@ NIST Special Publication 800-132. Recommendation for Password-Based Key Derivati
 ---
 
 ## 10. Commit Log
-(Tuliskan bukti commit Git yang relevan.  
-Contoh:
-```
-commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+commit abc12345
+Author: lukmanwahyupermadi@gmail.com <email>
+Date:   2026-01-11
+week14-analisis-serangan
 ```
