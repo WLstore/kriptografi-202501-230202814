@@ -120,8 +120,8 @@ Solidity Documentation. Version 0.8.0 Release Notes.
 Contoh:
 ```
 commit abc12345
-Author: Nama Mahasiswa <email>
-Date:   2025-09-20
+Author: Lukman Wahyu Permadi < lukmanwahyupermadi@gmail.com >
+Date:   2026-01-26
 
-    week2-cryptosystem: implementasi Caesar Cipher dan laporan )
+    week15-tinycoin-erc20 )
 ```
