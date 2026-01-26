@@ -119,7 +119,9 @@ Solidity Documentation. Version 0.8.0 Release Notes.
 (Tuliskan bukti commit Git yang relevan.  
 Contoh:
 ```
-commit abc12345
+[main 44efdd4] week15-tinycoin-erc20
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+PS E:\tugas kripto\kriptografi-202501-230202814> 
 Author: Lukman Wahyu Permadi < lukmanwahyupermadi@gmail.com >
 Date:   2026-01-26
 
